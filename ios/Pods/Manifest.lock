@@ -1284,22 +1284,11 @@ PODS:
   - EXCalendar (8.1.0):
     - UMCore
     - UMPermissionsInterface
-  - EXCamera (8.2.0):
-    - UMBarCodeScannerInterface
-    - UMCore
-    - UMFaceDetectorInterface
-    - UMFileSystemInterface
-    - UMImageLoaderInterface
-    - UMPermissionsInterface
   - EXCellular (2.1.1):
     - UMCore
   - EXConstants (9.0.0):
     - UMConstantsInterface
     - UMCore
-  - EXContacts (8.1.0):
-    - UMCore
-    - UMFileSystemInterface
-    - UMPermissionsInterface
   - EXCrypto (8.1.0):
     - UMCore
   - EXDevice (2.1.0):
@@ -2183,10 +2172,8 @@ DEPENDENCIES:
   - EXBranch (from `../packages/expo-branch/ios`)
   - EXBrightness (from `../packages/expo-brightness/ios`)
   - EXCalendar (from `../packages/expo-calendar/ios`)
-  - EXCamera (from `../packages/expo-camera/ios`)
   - EXCellular (from `../packages/expo-cellular/ios`)
   - EXConstants (from `../packages/expo-constants/ios`)
-  - EXContacts (from `../packages/expo-contacts/ios`)
   - EXCrypto (from `../packages/expo-crypto/ios`)
   - EXDevice (from `../packages/expo-device/ios`)
   - EXDocumentPicker (from `../packages/expo-document-picker/ios`)
@@ -2861,14 +2848,10 @@ EXTERNAL SOURCES:
     :path: "../packages/expo-brightness/ios"
   EXCalendar:
     :path: "../packages/expo-calendar/ios"
-  EXCamera:
-    :path: "../packages/expo-camera/ios"
   EXCellular:
     :path: "../packages/expo-cellular/ios"
   EXConstants:
     :path: "../packages/expo-constants/ios"
-  EXContacts:
-    :path: "../packages/expo-contacts/ios"
   EXCrypto:
     :path: "../packages/expo-crypto/ios"
   EXDevice:
@@ -3306,10 +3289,8 @@ SPEC CHECKSUMS:
   EXBranch: efcc4fbca3673af2c749fb0ebc1f2a12531fba92
   EXBrightness: 4afe561b25d674d7949409a73135faf8f1f627aa
   EXCalendar: 1339d99ca2246559121f86c050f29f689ccf773d
-  EXCamera: a7d29d25bf78a058c9111080cc1fc5b73814ce09
   EXCellular: 498a1b35747474ed15806aed58a4710bdef3e73b
   EXConstants: 5304709b1bea70a4828f48ba4c7fc3ec3b2d9b17
-  EXContacts: b24026570adb4dc8c4db0f12b90d608978f72561
   EXCrypto: c4ade2e300874e9175dbf0015734f411fe165d50
   EXDevice: 6e2b0178ab15cf57a46325e87f6e797cc72f6ddc
   EXDocumentPicker: 3bacb53995a03147696a93e1727288b1a7d39cf7
@@ -3421,6 +3402,6 @@ SPEC CHECKSUMS:
   yogaABI35_0_0: ba82ada0c3a58619049128d51d6de437638fe1a1
   ZXingObjC: fdbb269f25dd2032da343e06f10224d62f537bdb
 
-PODFILE CHECKSUM: 529190a386115c6ed272c0477f2ee8e0ce0b7490
+PODFILE CHECKSUM: c39720e95f2bd58431e1c58aece3574dbd882f8b
 
 COCOAPODS: 1.8.4

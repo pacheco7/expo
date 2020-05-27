@@ -27,6 +27,8 @@ target 'Exponent' do
       'expo-payments-stripe',
       'expo-updates',
       'expo-splash-screen',
+      'expo-camera',
+      'expo-contacts'
     ],
     flags: {
       :inhibit_warnings => false

@@ -6099,22 +6099,6 @@ CACHE_KEYS:
     PROJECT_NAME: EXCalendar
     SPECS:
       - EXCalendar (8.1.0)
-  EXCamera:
-    BUILD_SETTINGS_CHECKSUM:
-      EXCamera: 8e88762e6c92bde8fb40d5c0ad41cc5e
-    CHECKSUM: a7d29d25bf78a058c9111080cc1fc5b73814ce09
-    FILES:
-      - "../../packages/expo-camera/ios/EXCamera/EXCamera.h"
-      - "../../packages/expo-camera/ios/EXCamera/EXCamera.m"
-      - "../../packages/expo-camera/ios/EXCamera/EXCameraManager.h"
-      - "../../packages/expo-camera/ios/EXCamera/EXCameraManager.m"
-      - "../../packages/expo-camera/ios/EXCamera/EXCameraPermissionRequester.h"
-      - "../../packages/expo-camera/ios/EXCamera/EXCameraPermissionRequester.m"
-      - "../../packages/expo-camera/ios/EXCamera/Utilities/EXCameraUtils.h"
-      - "../../packages/expo-camera/ios/EXCamera/Utilities/EXCameraUtils.m"
-    PROJECT_NAME: EXCamera
-    SPECS:
-      - EXCamera (8.2.0)
   EXCellular:
     BUILD_SETTINGS_CHECKSUM:
       EXCellular: 7b86f685ad92a2527a5463d96e6d9b68
@@ -6137,22 +6121,6 @@ CACHE_KEYS:
     PROJECT_NAME: EXConstants
     SPECS:
       - EXConstants (9.0.0)
-  EXContacts:
-    BUILD_SETTINGS_CHECKSUM:
-      EXContacts: a9a049ac532f2a1fea1dfcd556b9d905
-    CHECKSUM: b24026570adb4dc8c4db0f12b90d608978f72561
-    FILES:
-      - "../../packages/expo-contacts/ios/EXContacts/EXContacts+Serialization.h"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContacts+Serialization.m"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContacts.h"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContacts.m"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContactsPermissionRequester.h"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContactsPermissionRequester.m"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContactsViewController.h"
-      - "../../packages/expo-contacts/ios/EXContacts/EXContactsViewController.m"
-    PROJECT_NAME: EXContacts
-    SPECS:
-      - EXContacts (8.1.0)
   EXCrypto:
     BUILD_SETTINGS_CHECKSUM:
       EXCrypto: cbf7b3e2ec01655d9810e8dadda406bf
@@ -7000,16 +6968,16 @@ CACHE_KEYS:
       - nanopb/encode (0.3.9011)
   Pods-Exponent:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 828b2df720a176a28bf9e767edc75183
-      Release: 828b2df720a176a28bf9e767edc75183
+      Debug: 7f61b0a29faaf780f3d07682144e6475
+      Release: 7f61b0a29faaf780f3d07682144e6475
   Pods-ExponentIntegrationTests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 62045aaf1bb29fcdb190fb4457f79636
-      Release: 62045aaf1bb29fcdb190fb4457f79636
+      Debug: 53dbdb231283568f7c70ad3c347165d2
+      Release: 53dbdb231283568f7c70ad3c347165d2
   Pods-Tests:
     BUILD_SETTINGS_CHECKSUM:
-      Debug: 62045aaf1bb29fcdb190fb4457f79636
-      Release: 62045aaf1bb29fcdb190fb4457f79636
+      Debug: 53dbdb231283568f7c70ad3c347165d2
+      Release: 53dbdb231283568f7c70ad3c347165d2
   Protobuf:
     BUILD_SETTINGS_CHECKSUM:
       Protobuf: e9ec876cfd5ece357978b5d515d5282c
